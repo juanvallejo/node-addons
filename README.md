@@ -1,5 +1,5 @@
-Node.js Hello World Addon
-=========================
+Node.js Hello World Addons
+==========================
 
 The current documentation on making a 'Hello World' addon on [Node.js](https://nodejs.org/api/addons.html#addons_hello_world)'s guide is outdated. This repo is an example on how to make a simple Hello World addon.
 
