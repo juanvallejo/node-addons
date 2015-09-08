@@ -5,7 +5,8 @@
   "main": "hello.js",
   "dependencies": {},
   "devDependencies": {
-    "nan": "^2.0.8"
+    "nan": "^2.0.8",
+    "node-gyp": "^3.0.0"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
