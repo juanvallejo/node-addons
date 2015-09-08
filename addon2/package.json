@@ -1,0 +1,17 @@
+{
+  "name": "addon2",
+  "version": "0.0.0",
+  "description": "addon2",
+  "main": "hello.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "addon"
+  ],
+  "author": "juanvallejo",
+  "license": "ISC",
+  "dependencies": {
+    "nan": "~1.8.4"
+  }
+}
